@@ -19,8 +19,9 @@
 ## Screenshots
 
 <div align="center">
-<!-- Screenshots coming soon -->
-<p><i>Screenshots will be added here soon.</i></p>
+
+![Telepromptly Screenshots](screenshots/screenshot.png)
+
 </div>
 
 ---
